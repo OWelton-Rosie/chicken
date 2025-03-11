@@ -30,7 +30,8 @@ Layer the Ham and Cheese:
 
 Place one slice of ham and one slice of cheese on each flattened chicken breast.
 Roll each chicken breast tightly, starting from the narrower end, to enclose the ham and cheese. Secure with toothpicks.
-Bread the Chicken:
+
+### Bread the Chicken:
 
 Set up three shallow bowls: one with flour, one with beaten eggs, and one with breadcrumbs.
 Dredge each chicken roll first in flour, then dip it into the beaten egg, and finally coat it with breadcrumbs.
@@ -45,9 +46,10 @@ In a small saucepan, melt the butter over medium heat.
 Stir in the flour and cook for 1-2 minutes, stirring constantly.
 Gradually whisk in the milk and bring to a simmer. Cook until thickened, about 3-5 minutes.
 Stir in the Parmesan cheese and Dijon mustard (if using). Season with salt and pepper to taste.
-Serve:
 
+### Serve:
 Once the chicken is done, remove the toothpicks. Serve the Chicken Cordon Bleu with the creamy sauce drizzled over the top.
+
 ### Tips:
 For a crispier texture, you can bake the breaded chicken rolls directly without frying first. Just bake for about 25-30 minutes until golden and cooked through.
 You can also add Dijon mustard or garlic to the breadcrumb mixture for extra flavor.
